@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\obj\Debug\netcoreapp3.1\LabTaskComplexNumber.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\obj\Debug\netcoreapp3.1\LabTaskComplexNumber.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\obj\Debug\netcoreapp3.1\LabTaskComplexNumber.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\obj\Debug\netcoreapp3.1\LabTaskComplexNumber.AssemblyInfo.cs
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\bin\Debug\netcoreapp3.1\LabTaskComplexNumber.exe
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\bin\Debug\netcoreapp3.1\LabTaskComplexNumber.deps.json
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\bin\Debug\netcoreapp3.1\LabTaskComplexNumber.runtimeconfig.json
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\bin\Debug\netcoreapp3.1\LabTaskComplexNumber.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\bin\Debug\netcoreapp3.1\LabTaskComplexNumber.dll
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\bin\Debug\netcoreapp3.1\LabTaskComplexNumber.pdb
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\obj\Debug\netcoreapp3.1\LabTaskComplexNumber.dll
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\obj\Debug\netcoreapp3.1\LabTaskComplexNumber.pdb
+C:\codebitsacademy\classworks\session7\LabTaskComplexNumber\obj\Debug\netcoreapp3.1\LabTaskComplexNumber.genruntimeconfig.cache

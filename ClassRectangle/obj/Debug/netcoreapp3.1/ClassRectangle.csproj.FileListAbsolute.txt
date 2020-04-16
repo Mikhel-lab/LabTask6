@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\session7\ClassRectangle\bin\Debug\netcoreapp3.1\ClassRectangle.exe
+C:\codebitsacademy\classworks\session7\ClassRectangle\bin\Debug\netcoreapp3.1\ClassRectangle.deps.json
+C:\codebitsacademy\classworks\session7\ClassRectangle\bin\Debug\netcoreapp3.1\ClassRectangle.runtimeconfig.json
+C:\codebitsacademy\classworks\session7\ClassRectangle\bin\Debug\netcoreapp3.1\ClassRectangle.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\session7\ClassRectangle\bin\Debug\netcoreapp3.1\ClassRectangle.dll
+C:\codebitsacademy\classworks\session7\ClassRectangle\bin\Debug\netcoreapp3.1\ClassRectangle.pdb
+C:\codebitsacademy\classworks\session7\ClassRectangle\obj\Debug\netcoreapp3.1\ClassRectangle.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\session7\ClassRectangle\obj\Debug\netcoreapp3.1\ClassRectangle.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\session7\ClassRectangle\obj\Debug\netcoreapp3.1\ClassRectangle.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\session7\ClassRectangle\obj\Debug\netcoreapp3.1\ClassRectangle.AssemblyInfo.cs
+C:\codebitsacademy\classworks\session7\ClassRectangle\obj\Debug\netcoreapp3.1\ClassRectangle.dll
+C:\codebitsacademy\classworks\session7\ClassRectangle\obj\Debug\netcoreapp3.1\ClassRectangle.pdb
+C:\codebitsacademy\classworks\session7\ClassRectangle\obj\Debug\netcoreapp3.1\ClassRectangle.genruntimeconfig.cache

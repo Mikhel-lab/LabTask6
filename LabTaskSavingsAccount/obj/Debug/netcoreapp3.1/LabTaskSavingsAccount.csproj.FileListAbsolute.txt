@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\obj\Debug\netcoreapp3.1\LabTaskSavingsAccount.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\obj\Debug\netcoreapp3.1\LabTaskSavingsAccount.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\obj\Debug\netcoreapp3.1\LabTaskSavingsAccount.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\obj\Debug\netcoreapp3.1\LabTaskSavingsAccount.AssemblyInfo.cs
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\bin\Debug\netcoreapp3.1\LabTaskSavingsAccount.exe
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\bin\Debug\netcoreapp3.1\LabTaskSavingsAccount.deps.json
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\bin\Debug\netcoreapp3.1\LabTaskSavingsAccount.runtimeconfig.json
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\bin\Debug\netcoreapp3.1\LabTaskSavingsAccount.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\bin\Debug\netcoreapp3.1\LabTaskSavingsAccount.dll
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\bin\Debug\netcoreapp3.1\LabTaskSavingsAccount.pdb
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\obj\Debug\netcoreapp3.1\LabTaskSavingsAccount.dll
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\obj\Debug\netcoreapp3.1\LabTaskSavingsAccount.pdb
+C:\codebitsacademy\classworks\session7\LabTaskSavingsAccount\obj\Debug\netcoreapp3.1\LabTaskSavingsAccount.genruntimeconfig.cache
